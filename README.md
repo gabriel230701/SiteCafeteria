@@ -1,4 +1,4 @@
-# Projeto Cafeteria DevCLUB ☕
+# Projeto Cafeteria
 
 ## Sobre
 
